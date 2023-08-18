@@ -1,1 +1,3 @@
-# shirkinaylar_programming_basics
+# Oqu kezindegi proyektter
+
+## Calculator [mina jerde](calculator/README.md)

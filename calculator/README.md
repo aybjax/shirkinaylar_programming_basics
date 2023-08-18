@@ -10,4 +10,4 @@
     `char arip;
     scanf("%c", &c);`
 
-    - Mundagi c '+'/'-'/'*'/'/' bola aladi
+    - Mundagi c '+' / '-' / '*' / '/' bola aladi

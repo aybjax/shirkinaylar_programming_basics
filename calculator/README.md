@@ -1,5 +1,5 @@
 # Calculator
-
+# Bekzat
 ## Maqsat
  - Calculator jazu
  - ush ret scanf oqip, manin jazu kerek
